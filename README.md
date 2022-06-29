@@ -1,3 +1,4 @@
-# music_app_work
+# Bloc Music App
 
-Creating a Music App UI as a part of work.
+ a Music App built using Bloc Pattern Flutter that can provide lyrics of
+tracks using third party api services
